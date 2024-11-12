@@ -1,0 +1,12 @@
+<script
+        type="text/javascript" 
+        src="https://www.saveecobot.com/widgets/air-quality-informer/js/iframeResizer.min.js">
+      </script>
+<iframe 
+          src="https://www.saveecobot.com/widgets/air-quality-informer/render/ecd88ce7ab2ed3e1b373064708ac7139"
+          height="170px"
+          width="212px"
+          scrolling="no"
+          frameborder="0" 
+          referrerpolicy="strict-origin"
+          onload="iFrameResize({autoResize: true})"></iframe>
