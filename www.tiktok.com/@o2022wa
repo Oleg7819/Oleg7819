@@ -9,4 +9,28 @@
           scrolling="no"
           frameborder="0" 
           referrerpolicy="strict-origin"
-          onload="iFrameResize({autoResize: true})"></iframe>
+          onload="iFrameResize({autoResize: true})"></iframe>{
+  "state" : 6,
+  "ad" : "none",
+  "audioitag" : "251",
+  "xtags" : "",
+  "adcpn" : "",
+  "playertype" : "19",
+  "isdrm" : "no",
+  "videoitag" : "248",
+  "ishls" : "no",
+  "islocal" : "no",
+  "connectiontype" : 6,
+  "ismonetized" : "no",
+  "ismuted" : "no",
+  "errorscreen" : "no",
+  "mobilecarrier" : "--",
+  "qoeerrorcode" : "",
+  "mlplayer" : {
+    "type" : "hamplayer_queue",
+    "docid" : "KGfQPqNoQ2o",
+    "rate" : 1
+  },
+  "qoeerrordetails" : "",
+  "resolution" : "1080p"
+}
